@@ -1,0 +1,9 @@
+server:
+  port: 9999
+
+keycloak:
+  url: https://auth-tes.camara.gov.br/auth
+  realm: gabinetedigital
+  username: p_6677
+  password: 123
+  clientId: sivis2-backend
